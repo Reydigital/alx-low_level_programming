@@ -35,7 +35,7 @@ return (dest);
  * @s1: array pointer to destination of string
  * @s2: array pointer to source of string
  * Return: return pointer to copy of string
- */
+ Â*/
 char *str_concat(char *s1, char *s2)
 {
 char *ptr;
