@@ -6,7 +6,7 @@
  *
  * @s: char type
  * Return:  length of string
- *Â/
+ */
 int _strlen(char *s)
 {
 int a;
