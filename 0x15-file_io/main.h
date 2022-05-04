@@ -1,5 +1,4 @@
-fndef FILE_IO
-
+#ifndef FILE_IO
 #define FILE_IO
 
 #include <sys/types.h>
